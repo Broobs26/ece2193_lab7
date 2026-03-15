@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+4-bit multiplier (output is 8-bit)
 
 ## How to test
 
-Explain how to use your project
+Synchronous 4-bit multiplier. Input 4-bit inputs to A and B, 8-bit output is on P.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware
